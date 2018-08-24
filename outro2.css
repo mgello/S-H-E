@@ -1,0 +1,91 @@
+#titletop {
+  border-color: #39007a;
+  font-size: 90px;
+  color: black;
+  font-weight: bolder;
+  text-decoration: none;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+body {
+    background-image: url("pastel sky.gif");
+    background-color: #93B874;
+    font-family: helvetica;
+}
+
+.restText {
+  font-family: helvetica;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+
+
+#titlepage {
+  text-align: center;
+}
+.tablink {
+    background-color: #b19cd9 ;
+    color: white;
+    float: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: #F4C2C2;
+}
+
+/* Style the tab content */
+.tabcontent {
+    color: #b19cd9;
+    display: none;
+    padding: 50px;
+    text-align: center;
+
+
+}
+#ce{
+  padding-top: 200px;
+    align-items: center;
+    font-size: 70px;
+    font-family: helvetica;
+
+}
+
+#definition {
+  font-size: 30px;
+  font-weight: 400px;
+  padding-bottom: 500px;
+}
+
+#credits {
+  padding-bottom: 80px;
+}
+
+#contact {
+  padding-bottom: 80px;
+  font-family: helvetica
+  font-weight: bold;
+}
+
+#name {
+padding: 30px; 
+
+}
+.button{
+  margin: 0 auto;
+    width: 100px;
+}
+.buttons {
+  text-align: center;
+}
+
+
+#Stats {background-color:#F4C2C2;}
+#Stories {background-color:#F4C2C2;}
+#Sources {background-color:#F4C2C2;}
